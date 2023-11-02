@@ -1,0 +1,9 @@
+.container {
+    border: 1px solid #ddd;
+    padding: 2rem;
+    max-width: 100%;
+  }
+  
+  .container img {
+    max-width: 100%;
+  }
