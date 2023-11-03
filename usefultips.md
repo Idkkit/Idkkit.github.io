@@ -2,3 +2,5 @@
 
 1. How to add .md links to html pages?
 ![here](/images/usefultips1.png)
+
+<img src="/images/usefultips1.png" alt="drawing" width="200"/>
