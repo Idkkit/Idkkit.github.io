@@ -2,6 +2,4 @@
 
 1. How to add .md links to html pages?
 
-<p align="center">
-    <img src="/images/usefultips1.png" alt="drawing" width="500"/>
-</p>
+<img src="/images/usefultips1.png" alt="drawing" width="500"/>
