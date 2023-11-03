@@ -17,3 +17,4 @@ p.s.: I have no idea why you're reading it but since you are! Don't mind if I ra
 | Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
 :33   Here's some more useful tipssss- ---> [Article 2](/usefultips.html)
+[Back to Main Page!](/index.html)
