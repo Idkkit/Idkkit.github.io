@@ -15,3 +15,5 @@ p.s.: I have no idea why you're reading it but since you are! Don't mind if I ra
 | Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
 | Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
 | Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+
+:33   Here's some more useful tipssss- ---> [Article 2](/chapter3/article2.md)
