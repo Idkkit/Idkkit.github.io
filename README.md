@@ -11,7 +11,7 @@ p.s.: I have no idea why you're reading it but since you are! Don't mind if I ra
  3. Hmm game ideas? And coding projects too of course!
 
 
-Hey check out this kewl column too! 
+Hey check out this kewl table too! 
 
 | Genre/Element | Ice | Fire |
 | --------------- | --------------- | --------------- |
