@@ -10,11 +10,14 @@ p.s.: I have no idea why you're reading it but since you are! Don't mind if I ra
  2. A rant on idle games I played recently
  3. Hmm game ideas? And coding projects too of course!
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
+
+Hey check out this kewl table too! 
+
+| Genre/Element | Ice | Fire |
 | --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+| Post-Acoplayse | Snow Creepers | Flaming Corpses |
+| Cyberpunk | Ice Ray | Incinerator |
+| Fantasy | Frozen Guards | Lava Crawlers |
 
 :33   Here's some more useful tipssss- ---> [Article 2](/usefultips.html) <br>
 [Back to Main Page!](/index.html)
